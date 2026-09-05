@@ -1,0 +1,1 @@
+"""RiskGraph application package."""
